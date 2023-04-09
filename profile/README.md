@@ -1,6 +1,6 @@
 ### 🧭 Our goals
 
-The two main, things that we put forward at Hyriode is the creativity 🖌️ and the quality 💎. Why those ?
+The two main, things that we put forward at Arak-arahm is the creativity 🖌️ and the quality 💎. Why those ?
 
 - Creativity because we want to innovate 💡 in our mini-games: by adding new features or by remaking some others if our community wants to, etc.
 - Quality because we want to provide 🎁 to players the best playing experience: no lag, no bugs and stuff.
