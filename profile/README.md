@@ -1,12 +1,25 @@
-## Hi there 👋
+### 🧭 Our goals
 
-<!--
+The two main, things that we put forward at Hyriode is the creativity 🖌️ and the quality 💎. Why those ?
 
-**Here are some ideas to get you started:**
+- Creativity because we want to innovate 💡 in our mini-games: by adding new features or by remaking some others if our community wants to, etc.
+- Quality because we want to provide 🎁 to players the best playing experience: no lag, no bugs and stuff.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+It's a challenge that we take every day, but it's not always easy to achieve it 😄
+
+
+### 💻 Technologies
+
+At Arak-arahm we always want to improve ourselves by discovering new technologies or simply by practising and learning new things every day.<br>
+So what technologies do we use ?
+
+- Java: it's the main language used at Arak-arahm. It is used to create plugins, applications and understand the basics of Minecraft.
+- Docker/K8s: K8s and Docker are in our opinions two of the best technologies that exist in the world. Our entire infrastructure is made with these!
+
+We used many others, but it would take too long to list them all.
+
+### 📫 Contact and Social networks
+
+- [Discord]()
+- [Twitter]()
+- [YouTube]()
